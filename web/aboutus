@@ -16,12 +16,12 @@
      <nav aria-label= "top nav" class="topnav" >
        <a href="./home.html"
  class="topnav">Main menu</a>
-       <a href="../web/menu.html"
+       <a href="../web/menu"
  class="topnav">Menu</a>
        <a href="../web/reservations"
  class="topnav">Reservations</a>
     
-       <a href="../web/contactus.html"
+       <a href="../web/contactus"
  class="topnav">Contact us</a>
         
      </nav>
@@ -50,12 +50,12 @@ couple who are keen on creating a business that would appeal to locals and touri
          <nav aria-label= "nav" class="nav">
        <a href="./home.html"
  class="nav">Main menu</a>
-       <a href="../web/menu.html"
+       <a href="../web/menu"
  class="nav">Menu</a>
        <a href="../web/reservations"
  class="nav">Reservations</a>
     
-          <a href="../web/contactus.html"
+          <a href="../web/contactus"
  class="nav">Contact us</a> 
        <a href="../web/privacypolicy"
  class="nav">Privacy policy</a>

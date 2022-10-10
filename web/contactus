@@ -17,11 +17,11 @@
      <nav aria-label= "top nav" class="topnav" >
       <a href="./home.html"
       class="topnav">Main menu</a>
-       <a href="../web/aboutus.html"
+       <a href="../web/aboutus"
  class="topnav">About us</a>
-       <a href="../web/menu.html"
+       <a href="../web/menul"
  class="topnav">Menu</a>
-       <a href="../web/reservations.html"
+       <a href="../web/reservations"
  class="topnav">Reservations</a>   
      </nav>
           </div>
@@ -42,13 +42,13 @@
          <nav aria-label= "nav" class="nav">
           <a href="./home.html"
  class="nav">Main menu</a> 
-       <a href="../web/aboutus.html"
+       <a href="../web/aboutus"
  class="nav">About us</a>
-       <a href="../web/menu.html"
+       <a href="../web/menu"
  class="nav">Menu</a>
-       <a href="../web/reservations.html"
+       <a href="../web/reservations"
  class="nav">Reservations</a>  
-       <a href="../web/privacypolicy.html"
+       <a href="../web/privacypolicy"
  class="nav">Privacy policy</a>
          <a href="../web/private/rosters.html"
  class="nav">Staff access</a>
