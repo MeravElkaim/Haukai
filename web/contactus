@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+     <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>The Haukai restaurant</title>
+       <link rel='stylesheet' href='./css/style2.css'>
+      
+       
+   </head>
+   <body>
+     <!-- Here is our main header that is used across all the pages of our website -->
+       <header class="header">
+       <h1>THE HAUKAI RESTAURANT</h1>
+     </header>
+      <div class= "left">
+     <nav aria-label= "top nav" class="topnav" >
+      <a href="./home.html"
+      class="topnav">Main menu</a>
+       <a href="./aboutus.html"
+ class="topnav">About us</a>
+       <a href="./menu.html"
+ class="topnav">Menu</a>
+       <a href="./reservations.html"
+ class="topnav">Reservations</a>   
+     </nav>
+          </div>
+     <!-- Here is our page's main content-->
+       <main>
+             <div class= "p1"><h2 >Contact us</h2>
+ <p >Our office opening hours are: Tuesday - Friday: 10am - 5pm and Saturday: 2pm - 5pm.</p>  
+           <p > Address: 1 Island Street Kerikeri, Bay of Islands</p>
+           <p >Email: Haukairestaurant@gmail.com</p>
+           <p >Phone: 09 401 4019</p> 
+          </div>
+           <div class="p2"><br><br>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d104310.3422550034!2d173.8930119857818!3d-35.21398583202943!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6d0bb73e31b0728b%3A0x500ef6143a2d500!2sKerikeri!5e0!3m2!1sen!2snz!4v1664241533418!5m2!1sen!2snz" width="600" height="240" max width = "100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div> <br><hr>
+          <div class="column1"><p > *For quarries regarding same day reservations, you can also contact us during the restaurant opening hours. Wednesday - Sunday: 6pm-10pm.</p></div>
+          </main>
+       <br>
+         <nav aria-label= "nav" class="nav">
+          <a href="./home.html"
+ class="nav">Main menu</a> 
+       <a href="./aboutus.html"
+ class="nav">About us</a>
+       <a href="./menu.html"
+ class="nav">Menu</a>
+       <a href="./reservations.html"
+ class="nav">Reservations</a>  
+       <a href="./privacypolicy.html"
+ class="nav">Privacy policy</a>
+         <a href="./private/rosters.html"
+ class="nav">Staff access</a>
+     </nav>
+     <!-- And here is our main footer that is used across all the pages of our website -->
+     <footer class="footer">
+       
+       <p>©Copyright 2018 by Haukai Restaurant. All rights reversed.</p>
+     </footer>
+   </body>
+ </html>

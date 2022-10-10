@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+     <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>The Haukai restaurant</title>     
+       <link rel='stylesheet' href='./css/style2.css'>
+      >
+       
+   </head>
+   <body>
+     <!-- Here is our main header that is used across all the pages of our website -->
+       <header class="header">
+       <h1>THE HAUKAI RESTAURANT</h1>
+     </header>
+      <div class= "left">
+     <nav aria-label= "top nav" class="topnav" >
+
+      <a href="./home.html"
+      class="topnav">Main menu</a>
+            <a href="./menu.html"
+      class="topnav">Menu</a>
+            <a href="./reservations.html"
+      class="topnav">Reservations</a>
+          
+            <a href="./contactus.html"
+      class="topnav">Contact us</a>
+     </nav>
+          </div>
+     <!-- Here is our page's main content-->
+     <main>
+           <p class= "p"> </p>
+              <div class="column">
+           <h2>Privacy Policy</h2>
+           <p>We diligently adhere to the privacy law 2020 and the information provided in this page and all manner of obtaining, processing, storing and disposing of the information is in full compliance with the privacy act 2020.</p>
+           <p >We collect personal information from you, including information about your:  name, contact information, location and interactions with us.
+            </p>
+
+            <p>We collect your personal information in order to
+            process reservation requests and optimize the web application experience for the customers. (These processes are in full compliance with the privacy act 2020: Principle 1   - Purpose for collection,
+            Principle 2   - Source of information - collection from the individual,
+            Principle 3   - What to tell the individual about collection and
+            Principle 4   - Manner of collection)
+            </p>
+               <p> We would like to reassure you that your data is kept securely and is only kept for the duration of time that is necessary to fulfill our services to you and/or required for legal tax obligation requirements. (Pursuant and in compliance with the privacy act 2020: Principle 5   - Storage and security of information, Principle 9   - Limits on retention of personal information and with current tax laws).</p>
+               <p>We will not share your personal information with a third party under any circumstances (pursuant and in  with the privacy act 2020: Principle 10 - Use of personal information,
+                Principle 11 - Disclosing personal information and
+                Principle 12 - Disclosure outside New Zealand).</p> 
+<p>You have the right to ask for a copy of any personal information we hold about you, and to ask for it to be corrected if you think it is wrong (pursuant and in compliance with the privacy act 2020: Principle 6   - Providing people access to their information,
+  Principle 7   - Correction of personal information and
+  Principle 8   - Ensure accuracy before using information). If you’d like to ask for a copy of your information, or to have it corrected, please contact us.</p>
+
+  <br><br>
+      </div>
+        
+     </main>
+       <br>
+        <div> <nav aria-label= "nav" class="nav">
+            <a href="./home.html"
+            class="topnav">Main menu</a>
+       <a href="./aboutus.html"
+ class="nav">About us</a>
+       <a href="./menu.html"
+ class="nav">Menu</a>
+       <a href="./reservations.html"
+ class="nav">Reservations</a>
+          <a href="./contactus.html"
+ class="nav">Contact us</a> 
+         <a href="./private/rosters.html"
+ class="nav">Staff access</a>
+            </nav></div>
+     <!-- And here is our main footer that is used across all the pages of our website -->
+     <footer class="footer">
+       
+       <p>©Copyright 2018 by Haukai Restaurant. All rights reversed.</p>
+     </footer>
+   </body>
+ </html>

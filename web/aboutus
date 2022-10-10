@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+     <meta charset="utf-8">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>The Haukai restaurant</title>
+       <link rel='stylesheet' href='./css/style2.css'>
+     
+        </head>
+   <body>
+     <!-- Here is our main header that is used across all the pages of our website -->
+       <header class="header">
+       <h1>THE HAUKAI RESTAURANT</h1>
+     </header>
+      <div class= "left">
+     <nav aria-label= "top nav" class="topnav" >
+       <a href="./home.html"
+ class="topnav">Main menu</a>
+       <a href="./menu.html"
+ class="topnav">Menu</a>
+       <a href="./reservations"
+ class="topnav">Reservations</a>
+    
+       <a href="./contactus.html"
+ class="topnav">Contact us</a>
+        
+     </nav>
+          </div>
+     <!-- Here is our page's main content-->
+       <main>
+           <br>
+           
+       <div class="p1"> 
+        <h2>About us</h2> 
+ <p class= "p">Haukai Restaurant specializes in Māori kai and is based in the Bay of Islands. It was started by a 
+couple who are keen on creating a business that would appeal to locals and tourists visiting the area. A restaurant that would represent and celebrate Māori kai and culture and also represent the bicultural nature of new zealand providing a dinner menu that features Māori and Pākeha kai options and drinks.
+     </p>
+      </div>  
+      <div class= "p2"><p></p>
+        <picture>
+   <source srcset="images/restaurant4.png" alt="picture of the Haukai restaurant" width='400' height='290'   media="(max-width: 900px)" title="The Haukai restaurant">
+   <source srcset="images/restaurant4.png" alt="picture of the Haukai restaurant" width='600' height='390'   media="(max-width: 2000px)" title="The Haukai restaurant">
+   <img src="./images/restaurant4.png" alt="picture of the Haukai restaurant"  width='600' height='360'   max-width="100%" title="The Haukai restaurant">
+ </picture> 
+          </div>
+          <p><hr><br><p><br>Haukai restaurant:1 Island Street 
+            Kerikeri, Bay of Islands</p><br></p>
+     </main>
+       <br>
+         <nav aria-label= "nav" class="nav">
+       <a href="./home.html"
+ class="nav">Main menu</a>
+       <a href="./menu.html"
+ class="nav">Menu</a>
+       <a href="./reservations"
+ class="nav">Reservations</a>
+    
+          <a href="./contactus.html"
+ class="nav">Contact us</a> 
+       <a href="./privacypolicy"
+ class="nav">Privacy policy</a>
+         <a href="./private/rosters.html"
+ class="nav">Staff access</a>
+     </nav>
+     <!-- And here is our main footer that is used across all the pages of our website -->
+     <footer class="footer">
+       
+       <p>©Copyright 2018 by Haukai Restaurant. All rights reversed.</p>
+     </footer>
+   </body>
+ </html>
