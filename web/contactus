@@ -4,7 +4,7 @@
      <meta charset="utf-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>The Haukai restaurant</title>
-       <link rel='stylesheet' href='./css/style2.css'>
+       <link rel='stylesheet' href='./css/styles2'>
       
        
    </head>
@@ -17,11 +17,11 @@
      <nav aria-label= "top nav" class="topnav" >
       <a href="./home.html"
       class="topnav">Main menu</a>
-       <a href="./aboutus.html"
+       <a href="../web/aboutus.html"
  class="topnav">About us</a>
-       <a href="./menu.html"
+       <a href="../web/menu.html"
  class="topnav">Menu</a>
-       <a href="./reservations.html"
+       <a href="../web/reservations.html"
  class="topnav">Reservations</a>   
      </nav>
           </div>
@@ -42,15 +42,15 @@
          <nav aria-label= "nav" class="nav">
           <a href="./home.html"
  class="nav">Main menu</a> 
-       <a href="./aboutus.html"
+       <a href="../web/aboutus.html"
  class="nav">About us</a>
-       <a href="./menu.html"
+       <a href="../web/menu.html"
  class="nav">Menu</a>
-       <a href="./reservations.html"
+       <a href="../web/reservations.html"
  class="nav">Reservations</a>  
-       <a href="./privacypolicy.html"
+       <a href="../web/privacypolicy.html"
  class="nav">Privacy policy</a>
-         <a href="./private/rosters.html"
+         <a href="../web/private/rosters.html"
  class="nav">Staff access</a>
      </nav>
      <!-- And here is our main footer that is used across all the pages of our website -->

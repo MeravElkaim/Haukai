@@ -4,7 +4,7 @@
      <meta charset="utf-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>The Haukai restaurant</title>
-       <link rel='stylesheet' href='./css/style2.css'>
+       <link rel='stylesheet' href='./css/styles2'>
          
    </head>
    <body class="column2">
@@ -14,12 +14,12 @@
      <nav aria-label= "top nav" class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
-       <a href="./aboutus.html"
+       <a href="../web/aboutus.html"
        
  class="topnav">About us</a>
-       <a href="./reservations"
+       <a href="../web/reservations"
  class="topnav">Reservations</a>
-       <a href="./contactus"
+       <a href="../web/contactus"
  class="topnav">Contact us</a>    
      </nav>
        <main>
@@ -212,15 +212,15 @@ squash and a mushroom Jus.
          <nav aria-label= "nav" class="nav">
           <a href="./home.html"
           class="nav">Main menu</a>        
-       <a href="./aboutus.html"
+       <a href="../web/aboutus.html"
  class="nav">About us</a>
- <a href="./reservations.html"
+ <a href="../web/reservations.html"
  class="nav">Reservations</a>
-          <a href="./contactus.html"
+          <a href="../web/contactus.html"
  class="nav">Contact us</a> 
-       <a href="./privacypolicy.html"
+       <a href="../web/privacypolicy.html"
  class="nav">Privacy policy</a>
-         <a href="./private/rosters.html"
+         <a href="../web/private/rosters.html"
  class="nav">Staff access</a>
      </nav>
            </div>
