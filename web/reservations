@@ -17,11 +17,11 @@
      <nav aria-label= "top nav" class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
-       <a href="../web/aboutus.html"
+       <a href="./aboutus.html"
  class="topnav">About us</a>
-       <a href="../web/menu.html"
+       <a href="./menu.html"
  class="topnav">Menu</a>
-       <a href="../web/contactus.html"
+       <a href="./contactus.html"
  class="topnav">Contact us</a>
          
      </nav>
@@ -46,15 +46,15 @@
          <nav aria-label= "nav" class="nav">
           <a href="./home.html"
  class="nav">Main menu</a>
-       <a href="../web/aboutus.html"
+       <a href="./aboutus.html"
  class="nav">About us</a>
-       <a href="../web/menu.html"
+       <a href="./menu.html"
  class="nav">Menu</a>
-          <a href="../web/contactus.html"
+          <a href="./contactus.html"
  class="nav">Contact us</a> 
-       <a href="../web/privacypolicy.html"
+       <a href="./privacypolicy.html"
  class="nav">Privacy policy</a>
-         <a href="../web/private/rosters.html"
+         <a href="./private/rosters.html"
  class="nav">Staff access</a>
      </nav>
      <!-- And here is our main footer that is used across all the pages of our website -->

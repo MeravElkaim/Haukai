@@ -14,12 +14,12 @@
      <nav aria-label= "top nav" class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
-       <a href="../web/aboutus"
+       <a href="./aboutus"
        
  class="topnav">About us</a>
-       <a href="../web/reservations"
+       <a href="./reservations"
  class="topnav">Reservations</a>
-       <a href="../web/contactus"
+       <a href="./contactus"
  class="topnav">Contact us</a>    
      </nav>
        <main>
@@ -212,15 +212,15 @@ squash and a mushroom Jus.
          <nav aria-label= "nav" class="nav">
           <a href="./home.html"
           class="nav">Main menu</a>        
-       <a href="../web/aboutus"
+       <a href="./aboutus"
  class="nav">About us</a>
- <a href="../web/reservations"
+ <a href="./reservations"
  class="nav">Reservations</a>
-          <a href="../web/contactus"
+          <a href="./contactus"
  class="nav">Contact us</a> 
-       <a href="../web/privacypolicyl"
+       <a href="./privacypolicyl"
  class="nav">Privacy policy</a>
-         <a href="../web/private/rosters"
+         <a href="./private/rosters"
  class="nav">Staff access</a>
      </nav>
            </div>
