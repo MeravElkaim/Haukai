@@ -18,12 +18,12 @@
 
       <a href="./home.html"
       class="topnav">Main menu</a>
-            <a href="./menu.html"
+            <a href="./menu"
       class="topnav">Menu</a>
-            <a href="./reservations.html"
+            <a href="./reservations"
       class="topnav">Reservations</a>
           
-            <a href="./contactus.html"
+            <a href="./contactus"
       class="topnav">Contact us</a>
      </nav>
           </div>
@@ -58,15 +58,15 @@
         <div> <nav aria-label= "nav" class="nav">
             <a href="./home.html"
             class="topnav">Main menu</a>
-       <a href="./aboutus.html"
+       <a href="./aboutus"
  class="nav">About us</a>
-       <a href="./menu.html"
+       <a href="./menu"
  class="nav">Menu</a>
-       <a href="./reservations.html"
+       <a href="./reservations"
  class="nav">Reservations</a>
-          <a href="./contactus.html"
+          <a href="./contactus"
  class="nav">Contact us</a> 
-         <a href="./private/rosters.html"
+         <a href="./private/rosters"
  class="nav">Staff access</a>
             </nav></div>
      <!-- And here is our main footer that is used across all the pages of our website -->
