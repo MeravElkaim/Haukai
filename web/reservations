@@ -8,14 +8,14 @@
      
        
    </head>
-   <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-9Y5R6Q6NVE"></script>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P3N4MWZY9J"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-9Y5R6Q6NVE');
+  gtag('config', 'G-P3N4MWZY9J');
 </script>
    <body>
      <!-- Here is our main header that is used across all the pages of our website -->
