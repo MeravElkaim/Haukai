@@ -23,7 +23,7 @@
        <h1>THE HAUKAI RESTAURANT</h1>
      </header>
       <div class= "left">
-     <nav aris label ="topnav" class="topnav" >
+     <nav aria label ="topnav" class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
        <a href="./aboutus"
@@ -52,7 +52,7 @@
         
      </main>
        <br>
-         <nav aris label ="nav" class="nav">
+         <nav aria label ="nav" class="nav">
           <a href="./home.html"
  class="nav">Main menu</a>
        <a href="./aboutus"
