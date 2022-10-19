@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+
    <head>
      <meta charset="utf-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>The Haukai restaurant</title>
        <link rel='stylesheet' href='./css/styles2'>
      
-       
+       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css"> 
    </head>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P3N4MWZY9J"></script>
@@ -23,7 +23,7 @@
        <h1>THE HAUKAI RESTAURANT</h1>
      </header>
       <div class= "left">
-     <nav aria-label= "top nav" class="topnav" >
+     <nav  class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
        <a href="./aboutus"
@@ -52,7 +52,7 @@
         
      </main>
        <br>
-         <nav aria-label= "nav" class="nav">
+         <nav  class="nav">
           <a href="./home.html"
  class="nav">Main menu</a>
        <a href="./aboutus"

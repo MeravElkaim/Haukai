@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+
    <head>
      <meta charset="utf-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <title>The Haukai restaurant</title>
        <link rel='stylesheet' href='./css/styles2'>
          
-   </head>
+       <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      </head>
   <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P3N4MWZY9J"></script>
 <script>
@@ -20,7 +21,7 @@
        <header class="header">
        <h1>THE HAUKAI RESTAURANT</h1>
      </header>
-     <nav aria-label= "top nav" class="topnav" >
+     <nav  class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
        <a href="./aboutus"
@@ -47,18 +48,18 @@
 </picture> </div>
                    
            <table class="table" >
-               <thead><tr ><th id="tr1" class="tr" >APPETIZERS 
-  </th><th id="th" class="th">  </th></tr></thead>
-                <thead><tr class="tr1"><th id="th"> </th><th id="th" class="th">  </th></tr></thead>
-<thead><tr class="tr1"><th id="tr1" class="tr1" >REWENA BREAD </th><th id="tr1" class="tr1">$10  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> Traditional Māori bread. </th><th id="tr2"> </th></tr></thead>
-               <thead><tr ><th id="tr1" class="tr1" >PAUA FRITTER </th><th id="tr1" class="tr1">$16  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> Finely diced pieces of paua, served with a side salad and horopito dressing.  </th><th id="tr2"> </th></tr></thead>
-               <thead><tr ><th id="tr1" class="tr1" >RAW FISH </th><th id="tr1" class="tr1">$20  </th></tr></thead>
-   <thead><tr><th id ="tr2" class="tr2"> 
-Dried snapper fish marinated in coconut cream, served with tomatoes and spring onions.</th><th id="tr2"></th></tr></thead>
-         <thead><tr ><th id="tr1" class="tr1" >POACHED SALMON </th><th id="tr1" class="tr1">$22  </th></tr></thead>
-   <thead><tr><th id ="tr2" class="tr2"> 
+               <thead><tr ><th  class="tr" >APPETIZERS 
+  </th><th  class="th">  </th></tr></thead>
+                <thead><tr class="tr1"><th class="th"> </th><th  class="th">  </th></tr></thead>
+<thead><tr class="tr1"><th  class="tr1" >REWENA BREAD </th><th  class="tr1">$10  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> Traditional Māori bread. </th><th > </th></tr></thead>
+               <thead><tr ><th  class="tr1" >PAUA FRITTER </th><th  class="tr1">$16  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> Finely diced pieces of paua, served with a side salad and horopito dressing.  </th><th > </th></tr></thead>
+               <thead><tr ><th  class="tr1" >RAW FISH </th><th  class="tr1">$20  </th></tr></thead>
+   <thead><tr><th  class="tr2"> 
+Dried snapper fish marinated in coconut cream, served with tomatoes and spring onions.</th><th ></th></tr></thead>
+         <thead><tr ><th  class="tr1" >POACHED SALMON </th><th  class="tr1">$22  </th></tr></thead>
+   <thead><tr><th class="tr2"> 
 Salmon poached in an orange and pistachio glaze, served with rewena bread.</th><th id="tr2"></th></tr></thead>      
 </table> 
            <br><br>
@@ -74,33 +75,33 @@ Salmon poached in an orange and pistachio glaze, served with rewena bread.</th><
 </picture> </div>
                   
            <table class="table" > 
-<thead><tr  ><th id="tr1" class="tr1" >FISH OF THE DAY
-  </th><th id="tr1" class="tr1">$25  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> 
-Beer battered fish and kumara fries, served with a side salad and homemade tartare. </th><th id="tr2"> </th></tr></thead>
-               <thead><tr ><th id="tr1" class="tr1" >MUSSELS AND SCALLOPS
+<thead><tr  ><th  class="tr1" >FISH OF THE DAY
+  </th><th  class="tr1">$25  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> 
+Beer battered fish and kumara fries, served with a side salad and homemade tartare. </th><th  class="tr2"> </th></tr></thead>
+               <thead><tr ><th  class="tr1" >MUSSELS AND SCALLOPS
 
-  </th><th id="tr1" class="tr1">$25  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> 
+  </th><th  class="tr1">$25  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> 
 Steamed mussel &amp; scallop mousse, honey and soy broth.</th><th id="tr2"> </th></tr></thead>
-               <thead><tr ><th id="tr1" class="tr1" >SEAFOOD CHOWDER
-  </th><th id="tr1" class="tr1">$30  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> 
+               <thead><tr ><th  class="tr1" >SEAFOOD CHOWDER
+  </th><th  class="tr1">$30  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> 
 Creamy chowder filled with terakihi, prawn, hoki, scallops and mussels, served with flatbread. </th><th id="tr2"> </th></tr></thead>
-         <thead><tr ><th id="tr1" class="tr1">PORK BELLY  
+         <thead><tr ><th  class="tr1">PORK BELLY  
  
-  </th><th id="tr1" class="tr1">$30  </th></tr></thead>
-   <thead><tr> <th id ="tr2" class="tr2"> 
+  </th><th " class="tr1">$30  </th></tr></thead>
+   <thead><tr> <th  class="tr2"> 
 Slow cooked pork belly served on a bed of apple slaw with roasted kumara, and crispy noodle.</th><th id="tr2"> </th></tr></thead> 
-               <thead><tr ><th id="tr1" class="tr1" >LAMB STEAK 
-  </th><th id="tr1" class="tr1">$33  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">New Zealand Lamb coated in a kawakawa crumb, served with Dijon mustard glazed carrots, roasted butternut 
+               <thead><tr ><th  class="tr1" >LAMB STEAK 
+  </th><th  class="tr1">$33  </th></tr></thead>
+   <thead><tr > <th  class="tr2">New Zealand Lamb coated in a kawakawa crumb, served with Dijon mustard glazed carrots, roasted butternut 
 squash and a mushroom Jus. 
-</th><th id="tr2"> </th></tr></thead>
+</th><th > </th></tr></thead>
                 <thead><tr  ><th id="tr1" class="tr1" > VENISON
-  </th><th id="tr1" class="tr1">$33  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Venison crusted with horopito, served with glazed plums, cabbage salad and red wine Jus. 
-</th><th id="tr2"> </th></tr></thead> 
+  </th><th  class="tr1">$33  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Venison crusted with horopito, served with glazed plums, cabbage salad and red wine Jus. 
+</th><th class="tr2"> </th></tr></thead> 
                </table>
                <br><br>
                   <div class="p1"> <picture ><p></p>
@@ -114,111 +115,111 @@ squash and a mushroom Jus.
   <img src="./images/desert.png" alt="picture of a pudding served with vanilla ice cream"  width='360' height='150'   max-width="100%" title="A pudding served with vanilla ice cream">
 </picture> </div>       
              <table class="table"> 
-               <thead><tr  ><th id="tr1" class="tr1" >KĀPITI ICE CREAM  
-  </th><th id="tr1" class="tr1">$10  </th></tr></thead>
+               <thead><tr  ><th  class="tr1" >KĀPITI ICE CREAM  
+  </th><th  class="tr1">$10  </th></tr></thead>
    <thead><tr > <th id ="tr2" class="tr2">Check for daily specials. 
-</th><th id="tr2" > </th></tr></thead> 
+</th><th  > </th></tr></thead> 
                <thead><tr  ><th id="tr1" class="tr1" > STEAM PUDDING 
-  </th><th id="tr1" class="tr1">$12  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Golden syrup flavoured steam pudding, served with vanilla ice cream. 
-</th><th id ="tr2"> </th></tr></thead> <thead><tr  ><th id="tr1" class="tr1" >MINI PAVLOVA 
-  </th><th id="tr1" class="tr1">$16  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Mini Pavlova served with kawakawa and lemon infused cream and fresh fruit. 
+  </th><th " class="tr1">$12  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Golden syrup flavoured steam pudding, served with vanilla ice cream. 
+</th><th > </th></tr></thead> <thead><tr  ><th  class="tr1" >MINI PAVLOVA 
+  </th><th  class="tr1">$16  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Mini Pavlova served with kawakawa and lemon infused cream and fresh fruit. 
 </th><th id ="tr2"> </th></tr></thead>
-               <thead><tr  ><th id="tr1" class="tr1" >BANOFFEE PIE  
-  </th><th id="tr1" class="tr1">$16  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> Toffee, fresh bananas and fresh cream. 
-</th><th id ="tr2"> </th></tr></thead> 
+               <thead><tr  ><th  class="tr1" >BANOFFEE PIE  
+  </th><th  class="tr1">$16  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> Toffee, fresh bananas and fresh cream. 
+</th><th  class="tr2"> </th></tr></thead> 
           </table>      
 <br><br><br><br>
                 
                <table>
-                   <thead><tr > <th id="tr"class="tr"> BEVERAGES </th><th id ="tr2" class="tr2"> </th></tr></thead>
-                   <thead><tr > <th id ="tr2" class="tr2"> </th><th id ="tr2" class="tr2"> </th></tr></thead> </table>
+                   <thead><tr > <th class="tr"> BEVERAGES </th><th  class="tr2"> </th></tr></thead>
+                   <thead><tr > <th  class="tr2"> </th><th  class="tr2"> </th></tr></thead> </table>
                   <div class="p"> <picture ><p></p>
   <source srcset="images/drinkstoo.png" alt="picture of alcoholic drinks" width='320' height='200'   media="(max-width: 900px)" title="picture of alcoholic drinks">
   <source srcset="images/drinkstoo.png" alt="picture of alcoholic drinks" width='640' height='400'   media="(max-width: 2000px)" title="picture of alcoholic drinks">
   <img src="./images/drinkstoo.png" alt="picture of alcoholic drinks"  width='390' height='150'   max-width="100%" title="picture of alcoholic drinks">
 </picture> </div> <br><br>
                <table>
-                   <thead><tr > <th id ="tr2"class="tr2"> </th><th id ="tr2" class="tr2"> </th></tr></thead>
-               <thead><tr  ><th id="tr1"class="tr1" >RED 
-  </th><th id="tr1"class="tr1">B/G  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Terrace Edge Pinot Noir, 2012, Wairarapa 
-</th><th id ="tr2" class="tr2"> 53/13</th></tr></thead> <thead><tr  ><th id ="tr2" class="tr2" >Altitude Pinot Noir, 2010, Marlborough 
-  </th><th id ="tr2" class="tr2">64/15  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Greystone Pinot Noir, 2012, Wairarapa 
-</th><th id ="tr2" class="tr2" >73/17 </th></tr></thead><thead><tr  ><th id ="tr2" class="tr2" > Terrace Edge, Syrah, 2012 Wairarapa  
-  </th><th id ="tr2" class="tr2">53/13  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Altitude Syrah, 2010 Marlborough 
-</th><th id ="tr2" class="tr2">64/15 </th></tr></thead> 
-                   <thead><tr  ><th id ="tr2" class="tr2" >Greystone Syrah, 2012, Wairarapa  
-  </th><th id ="tr2" class="tr2">73/17  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2"> Pegasus Bay Merlot, 2013, Waipara
-</th><th id ="tr2" class="tr2">65/14 </th></tr></thead> 
-                   <thead><tr  ><th id ="tr2" class="tr2" >Pegasus Bay Pinot Noir, 2013, Waipara 
-  </th><th id ="tr2" class="tr2">110  </th></tr></thead>
-                   <thead><tr > <th id ="tr2" class="tr2"> 
-</th><th id ="tr2" class="tr2"> </th></tr></thead>
+                   <thead><tr > <th class="tr2"> </th><th  class="tr2"> </th></tr></thead>
+               <thead><tr  ><th class="tr1" >RED 
+  </th><th class="tr1">B/G  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Terrace Edge Pinot Noir, 2012, Wairarapa 
+</th><th  class="tr2"> 53/13</th></tr></thead> <thead><tr  ><th  class="tr2" >Altitude Pinot Noir, 2010, Marlborough 
+  </th><th  class="tr2">64/15  </th></tr></thead>
+   <thead><tr > <th class="tr2">Greystone Pinot Noir, 2012, Wairarapa 
+</th><th  class="tr2" >73/17 </th></tr></thead><thead><tr  ><th  class="tr2" > Terrace Edge, Syrah, 2012 Wairarapa  
+  </th><th  class="tr2">53/13  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Altitude Syrah, 2010 Marlborough 
+</th><th  class="tr2">64/15 </th></tr></thead> 
+                   <thead><tr  ><th  class="tr2" >Greystone Syrah, 2012, Wairarapa  
+  </th><th  class="tr2">73/17  </th></tr></thead>
+   <thead><tr > <th  class="tr2"> Pegasus Bay Merlot, 2013, Waipara
+</th><th  class="tr2">65/14 </th></tr></thead> 
+                   <thead><tr  ><th  class="tr2" >Pegasus Bay Pinot Noir, 2013, Waipara 
+  </th><th  class="tr2">110  </th></tr></thead>
+                   <thead><tr > <th class="tr2"> 
+</th><th  class="tr2"> </th></tr></thead>
                    
-   <thead><tr > <th id ="tr2" class="tr1"> WHITE
-</th><th id ="tr2"> </th></tr></thead> 
-                   <thead><tr  ><th id ="tr2" class="tr2" >Spade Oak Pinot Gris, 2011, Gisborne 
-  </th><th id ="tr2" class="tr2">40/10  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Maude Pinot Gris, 2017, Otago 
-</th><th id ="tr2" class="tr2">49.50/11 </th></tr></thead> 
-                   <thead><tr  ><th id ="tr2" class="tr2" >Charles Wiffen Chardonnay, 2013, Otago 
-  </th><th id ="tr2" class="tr2">48/11  </th></tr></thead>
-   <thead><tr > <th id ="tr2" class="tr2">Amisfield, Riesling, 2016, Otago  
-</th><th id ="tr2" class="tr2">53/12 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Lamont Riesling, 2010, Otago  
-</th><th id ="tr2" class="tr2">57/13 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2"> Elephant Hill Viognier, 2013, Hawkes Bay
-</th><th id ="tr2" class="tr2">55/12 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Folium Sauvignon Blanc, 2011, Marlborough 
-</th><th id ="tr2" class="tr2">52/11 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Billecart-Salmon Brut Reserve, France 
-</th><th id ="tr2" class="tr2">120 </th></tr></thead>
-                   <thead><tr > <th id ="tr2" class="tr2"> 
-</th><th id ="tr2" class="tr2"> </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr1">BEER AND CIDER 
-</th><th id ="tr2" class="tr2">PRICE </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Garage project range 
-</th><th id ="tr2" class="tr2">$11 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2"> Tuatara range 
-</th><th id ="tr2" class="tr2">$11 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Panhead range  
-</th><th id ="tr2" class="tr2">$10 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Coopers Ale  
-</th><th id ="tr2" class="tr2">$10 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2"> Heineken
-</th><th id ="tr2" class="tr2">$11 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Moa Cider 
-</th><th id ="tr2" class="tr2">$10 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Crooked Cider 
-</th><th id ="tr2" class="tr2">$10 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2"> 
-</th><th id ="tr2" class="tr2"> </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr1">NON-ALCOHOLIC  
-</th><th id ="tr2" class="tr2"> </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Mineral water 
-</th><th id ="tr2" class="tr2"> </th></tr></thead>
+   <thead><tr > <th  class="tr1"> WHITE
+</th><th > </th></tr></thead> 
+                   <thead><tr  ><th  class="tr2" >Spade Oak Pinot Gris, 2011, Gisborne 
+  </th><th  class="tr2">40/10  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Maude Pinot Gris, 2017, Otago 
+</th><th class="tr2">49.50/11 </th></tr></thead> 
+                   <thead><tr  ><th  class="tr2" >Charles Wiffen Chardonnay, 2013, Otago 
+  </th><th  class="tr2">48/11  </th></tr></thead>
+   <thead><tr > <th  class="tr2">Amisfield, Riesling, 2016, Otago  
+</th><th  class="tr2">53/12 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Lamont Riesling, 2010, Otago  
+</th><th  class="tr2">57/13 </th></tr></thead>
+                    <thead><tr > <th  class="tr2"> Elephant Hill Viognier, 2013, Hawkes Bay
+</th><th  class="tr2">55/12 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Folium Sauvignon Blanc, 2011, Marlborough 
+</th><th  class="tr2">52/11 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Billecart-Salmon Brut Reserve, France 
+</th><th  class="tr2">120 </th></tr></thead>
+                   <thead><tr > <th  class="tr2"> 
+</th><th  class="tr2"> </th></tr></thead>
+                    <thead><tr > <th  class="tr1">BEER AND CIDER 
+</th><th  class="tr2">PRICE </th></tr></thead>
+                    <thead><tr > <th class="tr2">Garage project range 
+</th><th  class="tr2">$11 </th></tr></thead>
+                    <thead><tr > <th  class="tr2"> Tuatara range 
+</th><th  class="tr2">$11 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Panhead range  
+</th><th  class="tr2">$10 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Coopers Ale  
+</th><th  class="tr2">$10 </th></tr></thead>
+                    <thead><tr > <th  class="tr2"> Heineken
+</th><th  class="tr2">$11 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Moa Cider 
+</th><th  class="tr2">$10 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Crooked Cider 
+</th><th  class="tr2">$10 </th></tr></thead>
+                    <thead><tr > <th  class="tr2"> 
+</th><th  class="tr2"> </th></tr></thead>
+                    <thead><tr > <th  class="tr1">NON-ALCOHOLIC  
+</th><th class="tr2"> </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Mineral water 
+</th><th  class="tr2"> </th></tr></thead>
 </th><th class="tr2">$4.00 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Soft drinks 
-</th><th id ="tr2" class="tr2">$4.00 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2"> Juice
-</th><th id ="tr2" class="tr2">$4.00 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Coffee  
-</th><th id ="tr2" class="tr2">$4.50 </th></tr></thead>
-                    <thead><tr > <th id ="tr2" class="tr2">Tea  
-</th><th id ="tr2" class="tr2">$3.50 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Soft drinks 
+</th><th  class="tr2">$4.00 </th></tr></thead>
+                    <thead><tr > <th  class="tr2"> Juice
+</th><th  class="tr2">$4.00 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Coffee  
+</th><th  class="tr2">$4.50 </th></tr></thead>
+                    <thead><tr > <th  class="tr2">Tea  
+</th><th  class="tr2">$3.50 </th></tr></thead>
 </table>        
          </div>
           <br><br><br><br>
      </main>
        <br>
        <div>
-         <nav aria-label= "nav" class="nav">
+         <nav  class="nav">
           <a href="./home.html"
           class="nav">Main menu</a>        
        <a href="./aboutus"
