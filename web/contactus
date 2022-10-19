@@ -23,7 +23,7 @@
        <h1>THE HAUKAI RESTAURANT</h1>
      </header>
       <div class= "left">
-     <nav aris label ="topnav" class="topnav" >
+     <nav aria label ="topnav" class="topnav" >
       <a href="./home.html"
       class="topnav">Main menu</a>
        <a href="./aboutus"
@@ -48,7 +48,7 @@
           <div class="column1"><p > *For quarries regarding same day reservations, you can also contact us during the restaurant opening hours. Wednesday - Sunday: 6pm-10pm.</p></div>
           </main>
        <br>
-         <nav aris label ="nav" class="nav">
+         <nav aria label ="nav" class="nav">
           <a href="./home.html"
  class="nav">Main menu</a> 
        <a href="./aboutus"

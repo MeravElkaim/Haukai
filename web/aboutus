@@ -23,7 +23,7 @@
        <h1>THE HAUKAI RESTAURANT</h1>
      </header>
       <div class= "left">
-     <nav aris label ="topnav" class="topnav" >
+     <nav aria label ="topnav" class="topnav" >
        <a href="./home.html"
  class="topnav">Main menu</a>
        <a href="./menu"
@@ -57,7 +57,7 @@ couple who are keen on creating a business that would appeal to locals and touri
             Kerikeri, Bay of Islands</p><br></p>
      </main>
        <br>
-         <nav aris label ="nav" class="nav">
+         <nav aria label ="nav" class="nav">
        <a href="./home.html"
  class="nav">Main menu</a>
        <a href="./menu"
