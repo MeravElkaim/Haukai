@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html lang="en">
    <head>
      <meta charset="utf-8">
        <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -23,7 +23,7 @@
        <h1>THE HAUKAI RESTAURANT</h1>
      </header>
       <div class= "left">
-     <nav  class="topnav" >
+     <nav aris label ="topnav" class="topnav" >
       <a href="./home.html"
  class="topnav">Main menu</a>
        <a href="./aboutus"
@@ -52,7 +52,7 @@
         
      </main>
        <br>
-         <nav  class="nav">
+         <nav aris label ="nav" class="nav">
           <a href="./home.html"
  class="nav">Main menu</a>
        <a href="./aboutus"
